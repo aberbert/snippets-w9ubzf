@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://aberbert.github.io/snippets-w9ubzf/sitemap.xml
